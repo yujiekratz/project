@@ -1,0 +1,8 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn=1.2.1
+prefix: /Users/yujiekratz/miniconda3/envs/dstoolbox
