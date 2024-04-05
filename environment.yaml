@@ -1,0 +1,9 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn=1.2.1
+  - jupyterlab
+prefix: /Users/yujiekratz/miniconda3/envs/dstoolbox
